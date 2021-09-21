@@ -1,21 +1,14 @@
 <!DOCTYPE html>
 <html>
+<head>
+  <link rel="stylesheet" href="styles.css">
+</head>
 <body>
 
-<h2>Text field</h2>
-<p>The <strong>input type="text"</strong> defines a one-line text input field:</p>
+<h1>ReSkill</h1>
+<p>Reskill yourself in a new area of work to broaden your existing capabilities. Reskilling needs to be part of a planned change in career direction.
 
-<form action="/action_page.php">
-  <label for="fname">First name:</label><br>
-  <input type="text" id="fname" name="fname"><br>
-  <label for="lname">Last name:</label><br>
-  <input type="text" id="lname" name="lname"><br><br>
-  <input type="submit" value="Submit">
-</form>
-
-<p>Note that the form itself is not visible.</p>
-<p>Also note that the default width of a text field is 20 characters.</p>
+Typical Reskilling Roadmap (*Individual programs may vary based on skill area)</p>
 
 </body>
 </html>
-
